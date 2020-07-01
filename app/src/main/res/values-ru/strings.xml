@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Drag And Draw</string>
+    <string name="clear_display">Очистить экран</string>
+</resources>

@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">DragAndDraw</string>
+    <string name="app_name">Drag And Draw</string>
+    <string name="clear_display">Clear Display</string>
 </resources>
